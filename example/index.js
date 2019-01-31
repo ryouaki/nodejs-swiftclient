@@ -110,7 +110,7 @@ async function example() {
   })
 
   /**
-   * Create a new Object
+   * Get object list
    */
   await client.getObjects('test').then((d) => {
     printObj(d);
@@ -128,7 +128,7 @@ async function example() {
   })
 
   /**
-   * Create a new Object
+   * Get object list
    */
   await client.getObjects('test').then((d) => {
     printObj(d);
@@ -146,7 +146,7 @@ async function example() {
     printErr(e);
   })
   /**
-   * Create a new Object
+   * copy a Object to a new path
    */
   await client.copyObject('test', 'object2', 'test1', 'object1').then((d) => {
     printObj(d);
