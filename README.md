@@ -9,6 +9,11 @@ The promise support client for openstack with nodejs
   $ npm i swift-nodeclient -save
 ```
 
+# How to run the example.
+```sh
+  $ node ./example/index.js
+```
+
 # API
 ```js
   const client = new NodeSwift({
