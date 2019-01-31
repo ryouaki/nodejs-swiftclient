@@ -1,14 +1,13 @@
 {
   "name": "swift-nodeclient",
   "version": "1.0.0",
-  "description": "The client for openstack swift with nodejs",
+  "description": "The promise support client for openstack swift with nodejs",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
-    "test": "jest",
-    "docs": "jsdoc -R README.md -c conf.json -d ./docs"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
