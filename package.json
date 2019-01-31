@@ -1,0 +1,33 @@
+{
+  "name": "swift-nodeclient",
+  "version": "1.0.0",
+  "description": "The client for openstack swift with nodejs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryouaki/swift-nodeclient.git"
+  },
+  "keywords": [
+    "swift",
+    "openstack",
+    "object",
+    "store",
+    "nodejs",
+    "client"
+  ],
+  "author": "ryouaki (46517115@qq.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryouaki/swift-nodeclient/issues"
+  },
+  "homepage": "https://github.com/ryouaki/swift-nodeclient#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
