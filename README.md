@@ -1,5 +1,5 @@
 
-[![npm downloads](https://img.shields.io/npm/dm/nodejs-swiftclient.svg?style=flat-square)](http://npm-stat.com/charts.html?package=nodejs-swiftclient)
+[![npm downloads](https://img.shields.io/npm/dm/swift-nodeclient.svg?style=flat-square)](http://npm-stat.com/charts.html?package=swift-nodeclient)
 
 # swift-nodeclient
 The promise support client for openstack with nodejs
