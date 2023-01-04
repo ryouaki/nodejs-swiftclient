@@ -37,6 +37,6 @@
   },
   "homepage": "https://github.com/ryouaki/swift-nodeclient#readme",
   "devDependencies": {
-    "jest": "^23.6.0"
+    "jest": "^29.3.1"
   }
 }
